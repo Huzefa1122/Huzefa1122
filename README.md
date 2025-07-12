@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Huzefa
-
+![Profile Views](https://komarev.com/ghpvc/?username=Huzefa1122&color=blue)
 ### 🛡️ Cybersecurity Analyst | ⚔️ Red Team Lead | 🤖 AI Enthusiast | 💻 Full-Stack Developer
 
 Welcome to my GitHub profile! I'm a multi-disciplinary tech professional passionate about offensive security, AI, and full-stack development. I lead red teaming operations and also enjoy crafting scalable, user-centric web applications.
