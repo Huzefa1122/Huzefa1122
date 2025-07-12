@@ -57,13 +57,6 @@ Welcome to my GitHub profile! I'm a multi-disciplinary tech professional passion
 
 ---
 
-## 🧰 Featured Projects
-
-- 🔧 **[RedOps Toolkit](https://github.com/yourusername/redops-toolkit)** – Custom offensive security tools built with Go and Python
-- 🌐 **[DevDash](https://github.com/yourusername/devdash)** – A dashboard for full-stack web projects, with API integrations and analytics
-- 🧠 **[LLM-SecLab](https://github.com/yourusername/llm-seclab)** – Experimenting with LLMs for intrusion detection and threat analysis
-
----
 
 
 
