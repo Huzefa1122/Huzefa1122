@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a multi-disciplinary tech professional passion
 - 💻 **Full-Stack Developer** – Proficient in building end-to-end web solutions using modern frameworks and technologies
 - 🤖 **AI Enthusiast** – Focused on applying AI/ML to security and automation use cases
 - 💡 **Currently Exploring**: LLM-based automation, Go-powered security tools, AI-integrated red teaming
-- 📫 **Reach Me**: huzefa@example.com | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 **Reach Me**: 101study.man101@gmail.com 
 
 ---
 
