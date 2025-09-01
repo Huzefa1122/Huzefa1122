@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a multi-disciplinary tech professional passion
 
 ## 🔍 About Me
 
-- 🔐 **Security Analyst & Red Team** – Specializing in offensive security, threat emulation, and adversarial attack simulations
+- 🔐 **Security Analyst** – Specializing in offensive security, threat emulation, and adversarial attack simulations
 - 💻 **Full-Stack Developer** – Proficient in building end-to-end web solutions using modern frameworks and technologies
 - 🤖 **AI Enthusiast** – Focused on applying AI/ML to security and automation use cases
 - 💡 **Currently Exploring**: LLM-based automation, Go-powered security tools, AI-integrated red teaming
@@ -65,6 +65,7 @@ Welcome to my GitHub profile! I'm a multi-disciplinary tech professional passion
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:101study.man101@gmail.com)
 
 ---
+
 
 
 
