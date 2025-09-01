@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Huzefa
 ![Profile Views](https://komarev.com/ghpvc/?username=Huzefa1122&color=blue)
-### 🛡️ Cybersecurity Analyst | ⚔️ Red Team Lead | 🤖 AI Enthusiast | 💻 Full-Stack Developer
+### 🛡️ Cybersecurity Analyst | ⚔️ Red Team Analyst | 🤖 AI Enthusiast | 💻 Full-Stack Developer
 
 Welcome to my GitHub profile! I'm a multi-disciplinary tech professional passionate about offensive security, AI, and full-stack development. I lead red teaming operations and also enjoy crafting scalable, user-centric web applications.
 
@@ -65,6 +65,7 @@ Welcome to my GitHub profile! I'm a multi-disciplinary tech professional passion
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:101study.man101@gmail.com)
 
 ---
+
 
 
 
